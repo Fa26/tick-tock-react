@@ -40,7 +40,7 @@ body {
   background:#ffff ;
   color: #e5dc15;
   top: 0px;
-  box-shadow: 0 12px #c2bb11, 0 18px rgba(0, 0, 0, 0.4);
+  box-shadow: 0 12px #c2bb11, 0 18 px rgba(0, 0, 0, 0.4);
 }
 
 .btn.disabled{
